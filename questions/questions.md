@@ -26,6 +26,7 @@ I hope these alternative options help. I have included a link to documentation a
 Managing Indices Documentation: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-indices-and-apps/manage-indices/how-to/delete-indices/?client=ruby#delete-indices-with-the-api
 
 Kind regards,
+
 Simran
 
 
@@ -60,6 +61,7 @@ If you are still running into difficulties after this approach, then we may have
 Please keep me updated on the status of this issue. I am here to help you get this resolved as quickly as possible.
 
 Kind regards,
+
 Simran
   
 --
@@ -92,6 +94,7 @@ Let's try troubleshooting this issue with the following steps:
 If the issue is still persisting after trying these steps, then please could you provide me with more context around your configuration and from there I will be able to assist you further. 
 
 Kind regards,
+
 Simran 
 
 
