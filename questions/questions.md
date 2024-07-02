@@ -18,8 +18,8 @@ Thank you for your feedback regarding the new dashboard design. I completely und
 
 With this in mind, I have provided some alternative solutions using the Algolia CLI to clear and delete indexes without needing to navigate through the dashboard.
 
-To delete an index, run: `algolia indices delete {YourIndexName}`
-To clear records from an index, run: `algolia indices clear {YourIndexName}`
+* To delete an index, run: `algolia indices delete {YourIndexName}`
+* To clear records from an index, run: `algolia indices clear {YourIndexName}`
 
 I hope these alternative options help. I have included a link to documentation around this issue below. If you need any further assistance, please don't hesitate to reach out.
 
